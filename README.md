@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aarush-Acharya
-- 👀 Just an explorer a little into Data Science and AI as well 
+- 👀 Just an exploring a little Data Science and AI as well 
 - 📫 How to reach me, My Linkdin: https://www.linkedin.com/in/aarush-acharya-312330221
 
 
